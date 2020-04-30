@@ -123,7 +123,7 @@ const App = () => {
    return (
       <div>
          <br />
-         <h2 style={{ textAlign: 'center' }}>Covid-19 Live Stats....!!</h2>
+         <h2 style={{ textAlign: 'center' }}>Covid-19 Live Stats!</h2>
          <br />
 
          <CardDeck>
